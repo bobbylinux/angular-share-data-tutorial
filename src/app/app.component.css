@@ -1,0 +1,14 @@
+div.parent,
+div.sibling {
+    padding: 20px;
+    margin: 5px;
+}
+
+div.parent {
+    background-color: blue;
+    color: white;
+}
+div.sibling {
+    background-color: green;
+    color: white;
+}
